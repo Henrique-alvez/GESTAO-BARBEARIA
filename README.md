@@ -16,9 +16,7 @@ Basta abrir o arquivo **`gestao.html`** (ou **`index.html`**, que redireciona au
 ## 🔐 Acesso Seguro com Login e Senha
 
 O acesso ao sistema é protegido por tela de autenticação administrativa:
-
-- **Usuário Padrão:** `admin@barbeariamoura.com.br` (ou simplesmente `admin`)
-- **Senha Padrão:** `moura123`
+`
 - **Manter conectado:** Opção para salvar a sessão no aparelho (celular ou computador) para não precisar redigitar a senha a cada abertura.
 - **Alteração de Senha:** Você pode alterar a senha a qualquer momento na aba **Configurações & Metas** &gt; **Segurança & Senha de Acesso**.
 - **Botão Sair (Logout):** Disponível no menu lateral no notebook e na barra superior/gaveta no celular.
